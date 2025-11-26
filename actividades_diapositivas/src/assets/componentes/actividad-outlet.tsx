@@ -34,7 +34,7 @@ export default function Actividad_outlet() {
 
 function Contacto() {
   return (
-    <div className="alert alert-danger">
+    <div className="page-404">
         <h2>ERROR 404</h2>
         <p>Página no encontrada.</p>
     </div>
