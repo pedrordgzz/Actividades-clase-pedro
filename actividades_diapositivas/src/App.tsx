@@ -1,19 +1,10 @@
 import React from 'react';
-import { Header } from './assets/componentes/header';
-import { Navbar
+import Actividad_outlet from './assets/componentes/actividad-outlet';
 
- } from './assets/componentes/navbar';
 export default function App() {
   return (
     <div className="app-container">
-      <Header />
-      <Navbar />
-
-      <main className="app-actividad">
-         
-      </main>
-
-
+      <Actividad_outlet />
     </div>
   )
 };
