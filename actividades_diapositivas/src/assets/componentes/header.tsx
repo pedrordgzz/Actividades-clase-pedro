@@ -1,5 +1,4 @@
 import React from 'react';
-
 export const Header = () => {
   return (
     <header className="header">
@@ -11,7 +10,7 @@ export const Header = () => {
       />
 
       <div className="header-texto">
-        <h1>Web Básica con React Pedro</h1>
+        <h1>Actividad Rutas Diapositiva Rutas en la URL</h1>
       </div>
     </header>
   );
